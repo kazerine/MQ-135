@@ -1,0 +1,3 @@
+Value of rzero is different for every sensor
+Run this program to find rzero value of your sensor
+Replace the value of rzero in "MQ135.h" with it.
